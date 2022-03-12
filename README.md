@@ -4,22 +4,22 @@ This is our community's digital garden. We use this space to share and grow budd
 
 ---
 
-## Best Practices
+# Best Practices
 
-### Frontmatter
+## Frontmatter
 This is where we put in the metadata that the backend will read when the note is published. 
 
-#### Submissions Must Include:
+### Submissions Must Include:
 
 **title:**
 **topics:**
 **status:** backlog, ready to start, in progress, published
 
-#### Optional Front Matter:
+### Optional Front Matter:
 
 **description:** 
 
-#### Some implicit metadata that will be shared will be:
+### Some implicit metadata that will be shared will be:
 
 **created on:**
 **last modified:**
