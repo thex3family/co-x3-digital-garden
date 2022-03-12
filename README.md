@@ -12,7 +12,9 @@ This is where we put in the metadata that the backend will read when the note is
 ### Submissions Must Include:
 
 **title:**
+
 **topics:**
+
 **status:** backlog, ready to start, in progress, published
 
 ### Optional Front Matter:
@@ -22,8 +24,16 @@ This is where we put in the metadata that the backend will read when the note is
 ### Some implicit metadata that will be shared will be:
 
 **created on:**
+
 **last modified:**
+
 **author:**
+
 **contributors:**
 
 Use the examples in `/Templates` to get started.
+
+---
+
+## MDX react chunks 
+Coming soon.
