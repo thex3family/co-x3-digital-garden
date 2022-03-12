@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "80acc45b9a064b47",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e7ffc26994f883",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "269966543807ff67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Example Note.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "53b85ffbf9d1bd4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97115e3201b113ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b624bf058a66de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a88e99201e9d476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "658c8389a65135b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5d45f2dcd217da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a159d82b169562e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73bd284925889e82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00e7ffc26994f883",
+  "lastOpenFiles": [
+    "README.md",
+    "Templates/Example Note.md",
+    "Notes/Knowledge Management System.md",
+    "Knowledge/Zettlekasten.md"
+  ]
+}
