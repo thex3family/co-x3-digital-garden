@@ -29,9 +29,11 @@ This is where we put in the metadata that the backend will read when the note is
 
 **author:**
 
-**contributors:**
+### Contributors
 
 Use the examples in `/Templates` to get started.
+
+**Publishing/Updating Content:** Please create a fork and submit your contributions via Pull Requests.
 
 ---
 
