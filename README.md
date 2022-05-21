@@ -21,11 +21,11 @@ This is where we put in the metadata that the backend will read when the note is
 
 For reference, we are using [Maggie Appleton](https://maggieappleton.com/) definitions for seedling, budding, and evergreen. Here they are:
 
-*Seedling:* Seedlings are ideas I've just started that are rough, unrefined, and need some time to grow.
-
-*Budding:* Buddings are ideas I've revised and worked on a bit. They're starting to grow, but still need refinement.
-
-*Evergreen:* Evergreens are ideas I've invested significant time into. They are refined, edited, and won't significantly change – aside from the occasional trimming.
+> **Seedling:** Seedlings are ideas I've just started that are rough, unrefined, and need some time to grow.
+> 
+> **Budding:** Buddings are ideas I've revised and worked on a bit. They're starting to grow, but still need refinement.
+> 
+> **Evergreen:** Evergreens are ideas I've invested significant time into. They are refined, edited, and won't significantly change – aside from the occasional trimming.
 
 **type:** note or article
 
