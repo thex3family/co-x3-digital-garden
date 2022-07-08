@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-contributors: ['ashleycrouch', 'joshwingreene']
+contributors: ['ashleycrouch', 'joshwingreene', 'conradlin']
 ---
 
 Anything related to the study and practice of teaching.
