@@ -1,6 +1,6 @@
 ---
 title: 'Law'
-contributors: ['ashleycrouch', 'conradlin']
+contributors: ['ashleycrouch']
 ---
 
 Anything related to the study and practice of law.
