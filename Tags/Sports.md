@@ -1,6 +1,6 @@
 ---
 title: 'Sports'
-contributors: ['joshwingreene']
+contributors: ['joshwingreene', 'conradlin']
 ---
 
 Football, Baseball, Soccer, Golf, Archery, Swimming, Tennis, etc.
