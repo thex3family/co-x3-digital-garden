@@ -4,10 +4,9 @@ description: ''
 tags: ['Co-x3']
 growthStage: 'seedling'
 type: 'note'
-authors: ['githubUsername']
+contributors: ['githubUsername']
 openToCollaboration: 'yes'
-license: 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)'
-license-link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+cover_url: ''
 ---
 
 # This is a header
