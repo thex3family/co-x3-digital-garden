@@ -9,7 +9,7 @@ openToCollaboration: 'no'
 cover_url: ''
 ---
 
-This is a test article with two references.
+This is a test article with two references. This is an edit.
 
 [[8/Simple Article]]
 
