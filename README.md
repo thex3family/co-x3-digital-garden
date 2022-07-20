@@ -1,4 +1,4 @@
-# digital-garden-notes
+# Co-x3 Digital Garden
 
 This is our community's digital garden. We use this space to share and grow budding pieces of knowledge with the world, and work together to help bring ideas to fruition.
 
@@ -7,7 +7,7 @@ This is our community's digital garden. We use this space to share and grow budd
 # Best Practices
 
 ## Frontmatter
-This is where we put in the metadata that the backend will read when the note is published. 
+This is where we put in the metadata that the backend will read when a note, article, or tag is published. 
 
 ### Note/Article Submissions Must Include:
 
@@ -29,13 +29,11 @@ For reference, we are using [Maggie Appleton](https://maggieappleton.com/) defin
 
 **type:** note or article
 
-**authors:** A list of one of more GitHub usernames, ex. ['githubUsername1', 'githubUsername2']
+**contributors:** A list of one of more GitHub usernames, ex. ['githubUsername1', 'githubUsername2']
 
 **openToCollaboration:** Specify whether you are open to people submitting edits to your content
 
-**license_name:** Specify the license for your work, ex. 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)'
-
-**license_link:** Specify the link to your chosen license, ex. https://creativecommons.org/licenses/by-nc-nd/4.0/
+**cover_url:** The url to your cover image. Read "How to Submit Content to Our Digital Garden" for more information on you will update this piece of metadata.
 
 ### Tag Submissions Must Include:
 
@@ -51,5 +49,3 @@ Use the examples in `/Templates` to get started.
 
 ## MDX react chunks 
 Coming soon.
-
-## This is a test. This is another test. This is test #3. This is test #4. This is test #5.
