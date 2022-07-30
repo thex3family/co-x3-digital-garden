@@ -10,7 +10,6 @@ license: 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
 license-link: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'
 cover-url: ''
 ---
-# [[co-x3-digital-garden/Notes and Articles/3/Digital Garden Moderation]]
 ## Welcome to the Co-x3 Digital Garden! 
 Thanks for taking a look at the digital garden! This article intends to make users of the digital garden aware of how written works are published to the site, as well as moderation steps, definitions, and requirements for publishing. 
 
