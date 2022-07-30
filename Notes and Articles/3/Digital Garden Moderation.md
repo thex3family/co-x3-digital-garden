@@ -25,7 +25,7 @@ Some things to keep in mind before you enter your written work into the Co-x3 Di
 	- ref: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
 	- submissions to the digital garden may have links to other works within it by using two square brackets around the name of the work. We want to know when ideas are getting inspiration from each other!
 	- members may also embed sections of other works within the digital garden space. 
-- [[How to Submit Content to our Digital Garden]]
+- [[2/How to Submit Content to our Digital Garden]]
 - Content will be reviewed to determine:
 	1. That the pull request is following the [social contract](https://join.co-x3.com/social-contract).
 	2. That the work has relevant tags and correct frontmatter.
