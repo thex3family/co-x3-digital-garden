@@ -6,9 +6,7 @@ growthStage: 'budding'
 type: 'article'
 openToCollaboration: 'yes'
 contributors: ['ashleycrouch']
-license: 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)'
-license-link: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'
-cover-url: ''
+cover_url: ''
 ---
 ## Welcome to the Co-x3 Digital Garden! 
 Thanks for taking a look at the digital garden! This article intends to make users of the digital garden aware of how written works are published to the site, as well as moderation steps, definitions, and requirements for publishing. 
