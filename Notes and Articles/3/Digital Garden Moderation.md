@@ -10,7 +10,6 @@ license: 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
 license-link: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'
 cover-url: ''
 ---
-# [[Digital Garden Moderation]]
 ## Welcome to the Co-x3 Digital Garden! 
 Thanks for taking a look at the digital garden! This article intends to make users of the digital garden aware of how written works are published to the site, as well as moderation steps, definitions, and requirements for publishing. 
 
@@ -25,7 +24,7 @@ Some things to keep in mind before you enter your written work into the Co-x3 Di
 	- ref: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
 	- submissions to the digital garden may have links to other works within it by using two square brackets around the name of the work. We want to know when ideas are getting inspiration from each other!
 	- members may also embed sections of other works within the digital garden space. 
-- ==Instructions for how to submit to the DG linked here==
+- [[2/How to Submit Content to our Digital Garden]]
 - Content will be reviewed to determine:
 	1. That the pull request is following the [social contract](https://join.co-x3.com/social-contract).
 	2. That the work has relevant tags and correct frontmatter.
@@ -63,25 +62,6 @@ Some things to keep in mind before you enter your written work into the Co-x3 Di
 	- ref: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
 	- submissions to the digital garden may have links to other notes within it by using two square brackets around the name of the note. We want to know when ideas are getting inspiration from each other!
 	- members may also embed sections of other notes within the digital garden space. 
-- ==Instructions for how to submit to the DG linked here==
-## Definitions 
-All pieces on the digital garden are written works submitted by members via the GitHub repository linked [here](https://github.com/thex3family/digital-garden-notes). 
-- Types of written works ('type' property on a written work):
-	- **articles** - combination of concepts, linking notes together, usually more structured.
-	- **notes** - one main idea or concept.
-- Types of growth stages ('growthStage' property on a written work):
-	- definitions pulled from Maggie Appleton's digital garden definitions [here](https://maggieappleton.com/garden-history)
-	- **seedling** - ideas that are rough, unrefined, and need some time to grow.
-	- **budding** - ideas that have been revised and worked on a bit. They are starting to grow, but still might need refinement.
-	- **evergreen** - ideas where time has been significantly invested, tend to be refined, edited, and won't significantly change, aside from the occasional trimming.
-- Tags ('tags' property on a written work):
-	- Tags are used for organizing the content on the digital garden site and will also be used for future search features
-		- list of available tags is liable to change over time, but for now the list of available tags are listed in the following section.
-	- users have two levels of censoring that they can optionally apply to their account 
-		- warning-list
-			- Provide warnings (ex. via a modal, color change) for the tags put into the warning-list
-		- block-list 
-			- if a user saves a tag to their block-list, this will stop the individual user from seeing content that contains the tag
 
 ## Pre-Moderation Process for Publishing Changes 
 A user must initiate a pull request from their version of the repository with the committed changes they want to make. This pull request is then to go to a moderator for approval of the changes. 
